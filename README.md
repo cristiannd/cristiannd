@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hola, soy Cristian 👋
+<div id="badges">
+  <a href="https://www.linkedin.com/in/cristian-donalicio/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-<!--
-**cristiannd/cristiannd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+Soy un desarrollador apasionado por el `frontend`, utilizo mi obsesiva atención por los detalles para lograr buenos resultados en los proyectos. Actualmente desarrollo mis proyectos con `ReactJS`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack de tecnologías
+### Frontend
+- HTML
+- CSS | Bootstrap | Material UI | Styled-components
+- Javascript
+- ReactJS
+
+### Backend
+- NodeJS | ExpressJS
+- Java | Spring boot | Maven
+
+
+### Bases de datos
+- MongoDB | Mongoose
+- MySQL
+
+### Testing
+- JEST
+- Testing-library
+- JUnit
+- Postman

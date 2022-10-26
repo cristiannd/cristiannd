@@ -12,9 +12,11 @@ Soy un desarrollador apasionado por el `frontend`, utilizo mi obsesiva atención
 ## Stack de tecnologías
 ### Frontend
 - HTML
-- CSS | Bootstrap | Material UI | Styled-components
+- CSS | Bootstrap | Material UI | Styled-components | SaSS
 - Javascript
+- Typescript
 - ReactJS
+- Redux
 
 ### Backend
 - NodeJS | ExpressJS

@@ -7,25 +7,22 @@
 
 <br>
 
-Soy un desarrollador apasionado por el `frontend`, utilizo mi obsesiva atención por los detalles para lograr buenos resultados en los proyectos. Actualmente desarrollo mis proyectos con `ReactJS`.
+Soy un desarrollador apasionado por el `frontend`, utilizo mi obsesiva atención por los detalles para lograr buenos resultados en los proyectos.
 
 ## Stack de tecnologías
 ### Frontend
 - HTML
 - CSS | Bootstrap | Material UI | Styled-components | SaSS
-- Javascript
-- Typescript
-- ReactJS
-- Redux
+- Javascript | Typescript
+- ReactJS | NextJS
 
 ### Backend
 - NodeJS | ExpressJS
-- Java | Spring boot | Maven
-
+- Java | Spring boot
 
 ### Bases de datos
-- MongoDB | Mongoose
-- MySQL
+- MongoDB
+- MySQL | Oracle
 
 ### Testing
 - JEST

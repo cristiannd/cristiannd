@@ -7,18 +7,19 @@
 
 <br>
 
-Soy un desarrollador apasionado por el `frontend`, utilizo mi obsesiva atención por los detalles para lograr buenos resultados en los proyectos.
+Soy un apasionado desarrollador fullstack con experiencia en React y Java. Mi enfoque se centra en la creación de productos integrales que no solo cumplen con los requisitos técnicos, sino que también proporcionan soluciones eficientes y atractivas.
 
 ## Stack de tecnologías
 ### Frontend
 - HTML
 - CSS | Bootstrap | Material UI | Styled-components | SaSS
 - Javascript | Typescript
-- ReactJS | NextJS
+- React | Next
 
 ### Backend
-- NodeJS | ExpressJS
 - Java | Spring boot
+- Node | Express
+
 
 ### Bases de datos
 - MongoDB
